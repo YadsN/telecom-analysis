@@ -49,7 +49,3 @@ usage.csv	Detalle de uso real	Llamadas (duración), mensajes (longitud)
 - Gráficos de distribuciones y comparaciones
 - Visualización de outliers y patrones
 - Extracción de insights comerciales
-
-🚀 Cómo Ejecutar el Proyecto
-### Opción 1: Google Colab (Recomendado)
-1. Abre [Google Colab](https://colab.research.google.com
